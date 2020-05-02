@@ -43,7 +43,7 @@ https://github.com/sabahsyed/RiddleMe
 
 
 ## GIFs
-<iframe src="https://drive.google.com/file/d/1yRz13rC6_Jl3mnObG57WunazfO_Q1gWU/view" width="640" height="480"></iframe>
+"https://drive.google.com/file/d/1yRz13rC6_Jl3mnObG57WunazfO_Q1gWU/view"
 
 
 
