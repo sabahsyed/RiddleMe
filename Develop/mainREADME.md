@@ -29,13 +29,21 @@ When creating an open source project on GitHub, it is important to have a qualit
 * The generated README includes 1 badge that's specific to the repository.
 
 ## GitHub Link:
+https://github.com/sabahsyed/RiddleMe
 
 ## Deployed Application Link 
 
+
 ## Screenshots
 
-## GIFs
+![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%202.02.03%20AM.png)
+![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%202.03.27%20AM.png)
+![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%202.03.32%20AM.png)
+![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%202.05.08%20AM.png)
 
+
+## GIFs
+<iframe src="https://drive.google.com/file/d/1yRz13rC6_Jl3mnObG57WunazfO_Q1gWU/view" width="640" height="480"></iframe>
 
 
 

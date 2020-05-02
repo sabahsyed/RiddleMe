@@ -1,22 +1,22 @@
 
 # README Generator
 ## License
-![GitHub license](https://img.shields.io/pypi/l/Django)
+![GitHub license](https://img.shields.io/aur/license/android-studio)
 
 
 ## GitHub UserName
-sabah  
+Sabah Syed 
 
 
 ### User Email
-
+sabah@ymail.com
 
 ## Project Title
-
+Riddle me
 ### Project Description
-
+Prompts user to solve quick riddles in a time frame
 ### Project URL
-
+https://github/sabahsyed/riddleme
 
 ## Table of contents
 
@@ -40,13 +40,13 @@ npm i
 
 ​
 ## Usage
-​
+​ Install nod edependecies
 ​
 ## License
-​This project is licensed under the ![License](https://img.shields.io/pypi/l/Django) license.
+​This project is licensed under the ![License](https://img.shields.io/aur/license/android-studio) license.
 
 ## Contributing
-​
+​hit me up on slack
 ​
 ## Tests
 ​To run tests, run the following command:
