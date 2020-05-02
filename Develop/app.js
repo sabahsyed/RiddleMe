@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
- const axios = require("axios");
+const axios = require("axios");
 // axios
 //     .get("https://api.github.com/users/sabahsyed")
 //     .then(function(res) {
@@ -91,11 +91,12 @@ function generateREADME(answers) {
     return `
 # README Generator
 ## License
-![GitHub license] (${answers.license})
-${answers.license.value}
+![GitHub license](${answers.license})
+(${answers.license.value})
 
 ## GitHub UserName
 ${answers.gitHubUserName} 
+
 
 ### User Email
 ${answers.userEmail}

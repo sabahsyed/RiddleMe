@@ -1,21 +1,22 @@
 
 # README Generator
 ## License
-![GitHub license] (https://img.shields.io/aur/license/android-studio)
-undefined
+![GitHub license](https://img.shields.io/cpan/l/Config-Augeas)
+(undefined)
 
 ## GitHub UserName
-sabah syed 
+sss 
+(https://img.shields.io/cpan/l/Config-Augeas)
 
 ### User Email
-sabisyed@gmail.com
+
 
 ## Project Title
-Riddle me
+s
 ### Project Description
-User is prompted with short mind riddles which cover many aspects
+s
 ### Project URL
-https://github.com/sabahsyed/RiddleMe
+
 
 ## Table of contents
 
@@ -39,10 +40,10 @@ npm i
 
 ​
 ## Usage
-​use it fr fun
+​
 ​
 ## License
-​This project is licensed under the https://img.shields.io/aur/license/android-studio license.
+​This project is licensed under the https://img.shields.io/cpan/l/Config-Augeas license.
 
 ## Contributing
 ​
