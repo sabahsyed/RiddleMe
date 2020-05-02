@@ -32,6 +32,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 https://github.com/sabahsyed/RiddleMe
 
 ## Deployed Application Link 
+https://sabahsyed.github.io/RiddleMe/
 
 
 ## Screenshots
