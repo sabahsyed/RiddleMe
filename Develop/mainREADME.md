@@ -41,6 +41,8 @@ https://sabahsyed.github.io/RiddleMe/
 ![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%202.03.27%20AM.png)
 ![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%202.03.32%20AM.png)
 ![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%202.05.08%20AM.png)
+![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%2010.12.13%20AM.png)
+![Riddle me](https://github.com/sabahsyed/RiddleMe/blob/master/Develop/screenshots/Screen%20Shot%202020-05-02%20at%2010.12.19%20AM.png)
 
 
 ## GIFs
