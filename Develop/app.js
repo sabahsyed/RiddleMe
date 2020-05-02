@@ -92,7 +92,7 @@ function generateREADME(answers) {
 # README Generator
 ## License
 ![GitHub license](${answers.license})
-(${answers.license.value})
+
 
 ## GitHub UserName
 ${answers.gitHubUserName} 
@@ -133,7 +133,7 @@ ${answers.installCommand}
 ​${answers.useRepo}
 ​
 ## License
-​This project is licensed under the ${answers.license} license.
+​This project is licensed under the ![License](${answers.license}) license.
 
 ## Contributing
 ​${answers.contributeRepo}

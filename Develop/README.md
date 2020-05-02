@@ -1,20 +1,20 @@
 
 # README Generator
 ## License
-![GitHub license](https://img.shields.io/cpan/l/Config-Augeas)
-(undefined)
+![GitHub license](https://img.shields.io/pypi/l/Django)
+
 
 ## GitHub UserName
-sss 
-(https://img.shields.io/cpan/l/Config-Augeas)
+sabah  
+
 
 ### User Email
 
 
 ## Project Title
-s
+
 ### Project Description
-s
+
 ### Project URL
 
 
@@ -43,7 +43,7 @@ npm i
 ​
 ​
 ## License
-​This project is licensed under the https://img.shields.io/cpan/l/Config-Augeas license.
+​This project is licensed under the ![License](https://img.shields.io/pypi/l/Django) license.
 
 ## Contributing
 ​
